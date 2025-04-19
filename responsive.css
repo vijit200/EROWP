@@ -1,0 +1,383 @@
+@media (max-width:1440px){
+    .Appointment::before{
+        font-size: 260px;
+        width: 100%;
+    }
+    .Contribut::after {
+        height: 360px;
+        bottom: -130px;
+    }
+    header .dropdown-item, header .nav-link{
+        font-size: 20px ;
+    }
+    .title2{
+        min-height: 90px;
+    }
+    .section4Steps{
+        margin-top: -5rem;
+    }
+}
+
+@media (max-width:1200px){
+    .Appointment::before{
+        font-size: 260px;
+        width: 100%;
+        height: calc(100% - 50px);
+        margin-top: -50px;
+    }
+    .Contribut::after {
+        height: 250px !important;
+        bottom: -100px;
+    }
+    header .dropdown-item, header .nav-link{
+        font-size: 20px ;
+    }
+}
+
+@media (min-width:991px) and (max-width:1100px){
+    .navbar-expand-lg .navbar-nav .nav-link{
+        margin: 10px 10px;
+    }
+}
+
+@media (max-width:991px){
+    .Appointment::before {
+        font-size: 200px;
+        width: 100%;
+        height: calc(100% - 60px);
+        margin-top: -60px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        line-height: 40px;
+        font-size: 20px;
+    }
+    .changefont,.changefont1{
+        font-size: 60px;
+    }
+    header .nav-link:hover {
+        color: #fff;
+        background-image: url(./images/navback.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .section4Steps {
+        margin-top: -5rem;
+    }
+    .about {
+        background-image: url(./images/About\ background.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    } 
+    .plantEarth{
+        width: 50% !important;
+    }   
+    .ty{
+        text-align: center;
+    }
+    .Contribut::after {
+        height: 250px !important;
+        bottom: -100px;
+    }
+    .Contribut .row{
+        margin-bottom: 100px;
+    }
+    .dell{
+        margin-top: 60px;
+    }
+    .Contribut::after {
+        height: 250px !important;
+        bottom: -100px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        margin: 0px ;
+    }
+}
+
+@media (min-width:768px) and (max-width:900px) {
+    .dell4 span{
+        display: block;
+        width: 100%;
+    }
+    .Appointment::before {
+        height: calc(100% - 60px);
+        margin-top: 60px;
+    }
+}
+
+@media (max-width:767px) {
+    .Appointment::before{
+        font-size: 160px;
+        width: 100%;
+        height: 100%;
+        margin-top: -50px;
+    }
+    .ban{
+        width: 50% !important;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        line-height: 40px;
+        font-size: 20px;
+    }
+    .changefont,.changefont1{
+        font-size: 40px;
+    }
+    .bannerText{
+        font-size: 18px;
+    }
+    .section4Steps{
+        margin-top: 0px;
+    }
+    .title{
+        font-size: 18px !important;
+    }
+    .about{
+        background-size: cover;
+    }
+    .oil{
+        font-size: 18px;
+        padding: 10px;
+        line-height: 36px;
+        width: 90%;
+    }
+    .plantEarth{
+        width: 50% !important;
+    }
+    .dell{
+        margin-top: 40px;
+        font-size: 40px;
+    }
+    .dell2{
+        font-size: 40px;
+    }
+    .dell4{
+        font-size: 40px;
+        text-align: center;
+    }
+    .dell4 span{
+        font-size: 36px;
+    }
+    .ty {
+        font-size: 18px;
+        line-height: 36px;
+        text-align: center;
+    }
+    .titles{
+        font-size: 18px;
+    }
+    .Contribut::after {
+        height: 250px !important;
+        bottom: -100px;
+    }
+    .Contribut .row{
+        margin-bottom: 100px;
+    }
+    footer .footerText p, footer .text-white1{
+        font-size: 18px;
+    }
+    footer .foot21{
+        font-size: 26px;
+    }
+}
+
+@media (max-width:575px){
+    .navbar-expand-lg .navbar-nav .nav-link{
+        line-height: 30px;
+        font-size: 20px;
+    }
+    .changefont,.changefont1{
+        font-size: 40px;
+    }
+    .bannerText{
+        font-size: 18px;
+    }
+    .section4Steps{
+        margin-top: 0px;
+    }
+    .about{
+        background-size: cover;
+    }
+    .dell{
+        margin-top: 40px;
+        font-size: 40px;
+    }
+    .dell2{
+        font-size: 40px;
+    }
+    .oil{
+        font-size: 18px;
+        padding: 10px;
+        line-height: 36px;
+        width: 100%;
+    }
+    .titles{
+        font-size: 18px;
+    }
+    .ty {
+        font-size: 18px;
+        line-height: 36px;
+        text-align: center;
+    }
+    .Contribut{
+        background-size: cover;
+    }
+    .Contribut .row{
+        margin-bottom: 40px;
+    }
+    .oils{
+        font-size: 18px;
+        line-height: 36px;
+        width: 100%;
+    }
+    .Appointment::before{
+        font-size: 120px;
+        width: 100%;
+        height: calc(100% - 20px);
+        margin-top: 20px;
+    }
+    .dell4{
+        font-size: 40px;
+        text-align: center;
+    }
+    .dell4 span{
+        font-size: 36px;
+    }
+    .Contribut::after{
+        height: 150px !important;
+        bottom: -75px;
+    }
+    .workList .workListItems h1.title2{
+        min-height: 30px;
+        max-height: 80px;
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .bannersection .content h1{
+        line-height: 40px;
+    }
+    footer .footerText p, footer .text-white1{
+        font-size: 18px;
+    }
+    footer .foot21{
+        font-size: 26px;
+    }
+    .mainbtn{
+        font-size: 18px;
+        padding: 10px 40px;
+    }
+    .about .title{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .py-60{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .now{
+        padding: 10px 20px;
+    }
+    header .nav-link:hover {
+        background-size: auto;
+    }
+}
+
+@media (max-width:480px){
+    .navbar-expand-lg .navbar-nav .nav-link{
+        line-height: 30px;
+        font-size: 20px;
+    }
+    .changefont,.changefont1{
+        font-size: 40px;
+    }
+    .bannerText{
+        font-size: 18px;
+    }
+    .section4Steps{
+        margin-top: 0px;
+    }
+    .about{
+        background-size: cover;
+    }
+    .dell{
+        margin-top: 40px;
+        font-size: 40px;
+    }
+    .dell2{
+        font-size: 40px;
+    }
+    .oil{
+        font-size: 18px;
+        padding: 10px;
+        line-height: 36px;
+        width: 100%;
+    }
+    .titles{
+        font-size: 18px;
+    }
+    .ty {
+        font-size: 18px;
+        line-height: 36px;
+        text-align: center;
+    }
+    .Contribut{
+        background-size: cover;
+    }
+    .Contribut .row{
+        margin-bottom: 40px;
+    }
+    .oils{
+        font-size: 18px;
+        line-height: 36px;
+        width: 100%;
+    }
+    .Appointment::before{
+        font-size: 80px;
+        width: 100%;
+        height: calc(100% - 80px);
+        margin-top: 80px;
+    }
+    .dell4{
+        font-size: 40px;
+        text-align: center;
+    }
+    .dell4 span{
+        font-size: 35px;
+    }
+    .Contribut::after{
+        height: 150px !important;
+        bottom: -75px;
+    }
+    .workList .workListItems h1.title2{
+        min-height: 30px;
+        max-height: 80px;
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .bannersection .content h1{
+        line-height: 40px;
+    }
+    footer .footerText p, footer .text-white1{
+        font-size: 18px;
+    }
+    footer .foot21{
+        font-size: 26px;
+    }
+    .mainbtn{
+        font-size: 18px;
+        padding: 10px 40px;
+    }
+    .about .title{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .py-60{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .now{
+        padding: 10px 20px;
+    }
+    header .nav-link:hover {
+        background-size: cover;
+    }
+}

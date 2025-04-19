@@ -1,0 +1,177 @@
+@media (max-width:575px) {
+    .w-100 {
+        width: 77%!important;
+        margin-left: 53px;
+        padding: unset;
+    }
+    
+    .bannersection .content h1,
+    .bannersection .content p
+    {
+        margin: auto 0px !important;
+        width: 100% !important;
+        text-align: center;
+    }
+    .bannersection .content p{
+        margin: 20px 0 !important;
+    }
+    .bannersection .vetricalSlider{
+        display: none;
+    }
+    .changefont {
+        font-size: 69px! important;
+    }
+    .changefont1{
+        font-size: 58px !important;
+    }
+    .navbar-toggler{
+        color: #456707;
+    }
+    .nav-item {
+        margin: 25px 21px 0 20px;
+    }
+    .changefont {
+        font-size: 81px;
+    }
+    .navbar-toggler {
+        padding: 0.25rem 0.75rem;
+        font-size: 2rem;
+        line-height: 47px;
+        background-color: transparent;
+        border: 0px solid transparent;
+        border-radius: 0.25rem;
+        transition: box-shadow .15s ease-in-out;
+    }
+    .mt-3 {
+        margin-top: 1rem !important;
+        margin-left: 63px;
+        font-size: 17px;
+        font-weight: 600;
+        width: 84%;
+    }
+    .mainbtn {
+        margin: 0 auto;
+    }
+    .row {
+        margin-right: calc(var(--bs-gutter-x) * 7.5);
+    }
+    .ban{
+        width: 50%!important;
+    }
+    .row {
+        margin-right: calc(var(--bs-gutter-x) * 0);
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 0.15rem;
+    }
+    header .nav-link:hover {
+        color: #fff;
+        background-image: url(./images/navback.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        display: initial;
+    }
+    .ban {
+        width: 86%!important;
+        margin-left: 53px;
+    }
+    .py-5 {
+        padding-top: 0rem!important;
+        padding-left: 0rem! important;
+    }
+    
+}
+
+@media (max-width:1376px){
+    .py-5 {
+        padding-top: 0rem!important;
+        padding-left: 4rem;
+    }
+    .navbar-brand {
+        padding-top: 0.3125rem;
+        padding-bottom: 0.3125rem;
+        margin-right: 1rem;
+        font-size: 1.25rem;
+        text-decoration: none;
+        white-space: nowrap;
+        padding-left: 4rem;
+    }
+    .mt-3 {
+        margin-right: 47px;
+    }
+    .changefont {
+        font-size: 70px;
+    }
+    .changefont1 {
+        font-size: 73px;
+    }
+    .mt-3 {
+        font-size: 19px;
+    }
+    .mainbtn {
+        padding: 16px 37px;
+    }
+    .container {
+        max-width: 1295px;
+    }
+    .title {
+        font-size: 21px;
+    }
+    .dell {
+        font-size: 63px;
+
+    }
+    .oil {
+        font-size: 20px;
+        padding: 23px 71px 0px 122px;
+    }
+    .mt-5 {
+        margin-top: 1rem!important;
+    }
+    .dell2 {
+        font-size: 59px;
+        background-position: 179px -2px;
+        
+    }
+    .ty {
+        font-size: 19px;
+        padding: 2px 52px 1px 41px;
+    }
+    .titles {
+        font-size: 22px;
+        line-height: 27px;
+        margin-right: 75px;
+    }
+    .now {
+        padding: 16px 37px;
+    }
+    .container3 li {
+        float: left;
+        text-align: center;
+        margin: 0.3999999999999986em;
+    }
+    .title2 {
+        font-size: 35px;
+        font-weight: bold;
+        margin-top: 22px;
+        line-height: 38px;
+    }
+    .title3 {
+        font-size: 16px;
+    }
+    
+    .dell3 {
+        margin-top: 209px;
+    }
+    .dell4 {
+        background-size: 647px;
+        background-position-x: 177px;
+    }
+    .car-image {
+        max-width: 1112px;
+        margin-bottom: 8px;
+    }
+}
+
